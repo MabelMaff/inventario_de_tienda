@@ -1,4 +1,4 @@
-# Simulación de Tienda Online en Python / Online Store Simulation in Python
+# Simulación de Tienda Online en Python 🏪
 
 Este repositorio contiene el código para una simulación de tienda online desarrollada en Python. El proyecto incluye diversas funcionalidades para gestionar el inventario, agregar productos, gestionar clientes y realizar ventas.
 
@@ -37,7 +37,7 @@ Si tienes alguna pregunta o necesitas más información, no dudes en contactarme
 
 ---
 
-# Online Store Simulation in Python
+# Online Store Simulation in Python 🏪
 
 This repository contains the code for an online store simulation developed in Python. The project includes various functionalities to manage inventory, add products, manage customers, and process sales.
 
